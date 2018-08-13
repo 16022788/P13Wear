@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P13Wear</string>
+    <string name="name">Name</string>
+    <string name="add">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">My Analog</string>
+    <string name="description">Description</string>
+</resources>
